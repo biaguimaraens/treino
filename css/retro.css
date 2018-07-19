@@ -1,0 +1,10 @@
+body{
+  background-image: url("../img/background/typewriter.jpg");
+  height:100%;
+  background-attachment: fixed;
+  font-family: 'Dosis', sans-serif;
+  font-size:x-large;
+}
+#minhadiv{
+  margin-top: 60vh;
+}
